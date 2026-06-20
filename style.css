@@ -8,7 +8,7 @@ body{
    flex-direction:center;
    justify-content:center;
    align-items:center;
-   background-image: url("pic/photo1.jpeg");
+   background-image: url("photo1.jpeg");
    background-image: cover;
    background-position:center;
 
@@ -47,14 +47,14 @@ color:white;
    
 }
 #page1{
-    background-image:url("pic/pic6.jpeg");
+    background-image:url("pic6.jpeg");
     background-size: cover;
     display:flex;
     height: 550px;
   
 }
 #page2{
-     background-image:url("pic/pic17.png") ;
+     background-image:url("pic17.png") ;
      background-size: cover;
     display:flex;
     height: 500px;
@@ -71,7 +71,7 @@ color:white;
   
 }
 #page4{
-     background-image:url("pic/pic18.png") ;
+     background-image:url("pic18.png") ;
      background-size: cover;
     display:flex;
     height: 500px;
@@ -79,7 +79,7 @@ color:white;
   
 }
 #page5{
-    background-image:url("pic/pic9.jpeg");
+    background-image:url("pic9.jpeg");
     background-size: cover;
     display:flex;
     height: 500px;
